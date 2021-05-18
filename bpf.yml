@@ -1,0 +1,29 @@
+name: bpf-dask
+channels:
+  - conda-forge
+dependencies:
+  - conda-pack
+  - dask-yarn
+  - jupyter
+  - koalas
+  - matplotlib
+  - mock
+  - mypy
+  - numpy
+  - pandas
+  - pip
+  - pyarrow
+  - pyhocon
+  - pylint
+  - pyspark=3.0.2
+  - pytest
+  - pytest-cov
+  - pytest-ordering
+  - pytest-runner
+  - pytest-subtests
+  - python=3.7
+  - pyyaml
+  - scikit-learn
+  - scipy
+  - seaborn
+  - yapf
